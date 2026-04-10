@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hoi 👋
 
 # Alex Kuklin
 
 I'm Alex, a student at Brigham Young University-Idaho(BYU Worldwide)
 interested in software development and Computer science. 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile.
 
 ## About Me
-
-- 🎓 Currently studying at BYU-Idaho
-- 🌱 Currently learning Java Script Frameworks
-- 📫 How to reach me: aleksqpp@gmail.com
+Currently studying at BYU-Idaho
+Currently learning Java Script Frameworks
+How to reach me: aleksqpp@gmail.com
 
 ## Technologies and Tools
 
