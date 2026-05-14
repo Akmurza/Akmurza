@@ -2,8 +2,8 @@
 
 # Alex Kuklin
 
-I'm Alex, a student at Brigham Young University-Idaho(BYU Worldwide)
-interested in software development and Computer science. 
+I'm Alex, a student at BYU Worldwide
+interested in Computer science. 
 Welcome to my GitHub profile.
 
 ## About Me
@@ -13,7 +13,7 @@ How to reach me: aleksqpp@gmail.com
 
 ## Technologies and Tools
 
-- **Languages:** Python, JavaScript, Java, С#, Go, ST
+- **Languages:** Python, JavaScript, Java, С#, Go, ST/LD/IL/FBD
 - **Frameworks:** React, Node.js, Next, ASP, SpringBoot.
 - **Tools:** Git, VS Code.
 
