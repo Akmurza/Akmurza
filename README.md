@@ -8,7 +8,6 @@ Welcome to my GitHub profile.
 
 ## About Me
 Currently studying at BYU-Idaho
-Currently learning Java Script Frameworks
 How to reach me: aleksqpp@gmail.com
 
 ## Technologies and Tools
