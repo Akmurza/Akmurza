@@ -3,11 +3,9 @@
 # Alex Kuklin
 
 I'm Alex, a student at BYU Worldwide
-interested in Computer science. 
 Welcome to my GitHub profile.
 
 ## About Me
-Currently studying at BYU-Idaho
 How to reach me: aleksqpp@gmail.com
 
 ## Technologies and Tools
@@ -15,11 +13,6 @@ How to reach me: aleksqpp@gmail.com
 - **Languages:** Python, JavaScript, Java, С#, Go, ST/LD/IL/FBD
 - **Frameworks:** React, Node.js, Next, ASP, SpringBoot.
 - **Tools:** Git, VS Code.
-
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akmurza&show_icons=true&theme=default)
 
 ## Let's Connect!
 
